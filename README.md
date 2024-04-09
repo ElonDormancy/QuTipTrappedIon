@@ -1,5 +1,25 @@
 # Trapped Ion with QuTip
 Repository to store the basic code of trapped ion via qutip(https://github.com/qutip)
+
+# Homework 2024
+
+## Part I
+### Two level system, Rabi flopping and Ramsey experiment
+
+Deduce the final probability of excited state after a Ramsey sequence as followed slides from zihan's JC
+### Decoherence, Spin echo, composite pulse
+
+- What kind of noise can be eliminated by spin echo?
+- In the addressing error model, compare the error correction effect of composite pulse
+sequences SK1, N2, B2 for different values of base errors
+- In the amplitude error model, compare the error correction effect of composite pulse
+sequences SK1, N2, B2 for different values of base errors
+
+### Adiabatic theorem, Landau-Zener transition, Counter-diabatic drive
+Based on AE scheme，calculate the waveform of adiabatic passage with CD-drive Hamiltonian
+
+# Homework 2023
+
 ## Problem 1
 Rabi oscillation
 - Use Qutip to calculate the Rabi oscillation under a perfect drive, plot the
