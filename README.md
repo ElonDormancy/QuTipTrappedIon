@@ -18,6 +18,28 @@ sequences SK1, N2, B2 for different values of base errors
 ### Adiabatic theorem, Landau-Zener transition, Counter-diabatic drive
 Based on AE scheme，calculate the waveform of adiabatic passage with CD-drive Hamiltonian
 
+
+## Part II 
+
+### Raman Transition Simulation
+
+Derive the effective results to drive two-photon Raman transitions and use the Qutip to calculate the time-evolution of the raman transition with/without deca
+
+### Spin-Motion Coupling
+
+We will now investigate the generation and characterizing of nonclassical motional states in a trapped ion system as described by [Meekhof et al. in PhysRevLett. 76.1796 (1996).]
+The authors generate the thermal, Fock, coherent, and squeezed state of motional of a single Be+ ion. Then they detect the state of atomic motion by observing the evolution of the atom’s internal levels under the influence of a JCM-type interaction.
+ 
+Reproduce the four population plots of four different motional states in this reference as closely as possible and learn how they generate these states.
+ 
+Hint: https://iontrap.umd.edu/wp-content/uploads/2012/12/Experimental-Preparation-and-Measurement-of-the-State-of-Motion-of-a-Trapped-Atom.pdf
+
+
+We can also just apply a multi-frequency laser field, with each frequency component resonant with one of the transitions to generate the coherent state and squeezing
+state.[ Kienzler D, Lo H Y, Keitch B, et al. Science, 2015, 347(6217): 53-56.]
+ 
+Reproduce the Figure 2 to learn the technology of how to generate the coherent state and squeezing state by simultaneously apply the multi-frequency laser field.
+
 # Homework 2023
 
 ## Problem 1
